@@ -1,3 +1,6 @@
 [submodule "startbootstrap-resume"]
 	path = startbootstrap-resume
 	url = https://github.com/LajosPosta/startbootstrap-resume.git
+[submodule "Submodule-repo"]
+	path = Submodule-repo
+	url = https://github.com/LajosPosta/Submodule-repo.git
